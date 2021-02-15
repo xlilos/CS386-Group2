@@ -6,14 +6,13 @@ around for a peer to review your paper. Instead there would be a website you cou
 In return, you can help someone else who is looking for the same thing.
 
 ## Initial value proposition and consumer segments
+
   **Value Propositions**
-  
-    - Quick and easy feedback on paper
-    - Gain of knowledge reading other papers
-    - Place to share creativity on your writing
+  - Quick and easy feedback on paper
+  - Gain of knowledge reading other papers
+  - Place to share creativity on your writing
   
   **Consumer Segment**
-  
    - Writers
    - High school and college students
 
