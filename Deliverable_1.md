@@ -1,5 +1,5 @@
 ## Introduction
-A unique website for students/writers where members create a profile and upload their papers to get their work peer reviewed in exchange for 
+- A unique website for students/writers where members create a profile and upload their papers to get their work peer reviewed in exchange for 
 peer reviewing other members' work. This will build a community that will always be able to constantly have their 
 papers reviewed for just the simple and generous task of reading another's work. This is here to solve the problem of having to search or ask 
 around for a peer to review your paper. Instead there would be a website you could go to and have people just like you to help you review your paper. 
