@@ -117,7 +117,7 @@ In return, you can help someone else who is looking for the same thing.
    - Are you excited about this project if not why not? If excited what excites you the most about the idea?
       - Sounds very interesting and seems unique and very exciting for writers. “There is nothing I’ve seen like this so if this was to be made I would 100% use this.”
 - Representative quotes  
-      - “Sharing and reviewing papers and stories allows writers to work at the best of their abilities.”
+   - “Sharing and reviewing papers and stories allows writers to work at the best of their abilities.”
 - Assessment: Must have / Nice to have / Don’t care
     - Features
        - Rating system for reviewer to help get rid of people not helping in the proper way?
