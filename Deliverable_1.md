@@ -1,25 +1,23 @@
-# Introduction
-• A unique website for students/writers where members create a profile and upload their papers to get their work peer reviewed in exchange for 
+## Introduction
+A unique website for students/writers where members create a profile and upload their papers to get their work peer reviewed in exchange for 
 peer reviewing other members' work. This will build a community that will always be able to constantly have their 
 papers reviewed for just the simple and generous task of reading another's work. This is here to solve the problem of having to search or ask 
 around for a peer to review your paper. Instead there would be a website you could go to and have people just like you to help you review your paper. 
 In return, you can help someone else who is looking for the same thing.
 
-# Initial value proposition and consumer segments
-
-• Value Propositions/Consumer Segment Guesses
-  • Value Propositions
-    • Quick and easy feedback on paper
-    • Gain of knowledge reading other papers
-    • Place to share creativity on your writing  
-• Consumer Segment
-  • Writers
-  • High school and college students
+## Initial value proposition and consumer segments
+  **Value Propositions**
+    - Quick and easy feedback on paper
+    - Gain of knowledge reading other papers
+    - Place to share creativity on your writing  
+  **Consumer Segment**
+   - Writers
+   - High school and college students
 
 
-# Interview summary
+## Interview summary
 
-- Interview 1
+## Interview 1
 •Who was interviewed and who participated in the interview
   •interviewed: Alysa Rippie
   •Participated: Peter Galvan (host)
@@ -47,7 +45,7 @@ In return, you can help someone else who is looking for the same thing.
       •Nice to have. I think it could be a great resource for high school and college students. With the world moving closer and closer to technology everyday, so is education. I think this is a great opportunity for students, learners and writers alike to share ideas and feedback with one another. 
 
 
-- Interview 2 
+## Interview 2 
    • Who was interviewed and who participated in the interview
         • Interviewed: Isabel Salazar
         • Participated: Nick Nannen (Host)
@@ -73,7 +71,7 @@ In return, you can help someone else who is looking for the same thing.
       • The project as a whole?
          • Nice to Have
        
-- Interview 3
+## Interview 3
 
 •Who was interviewed and who participated in the interview
    •interviewed: Ariella Espinoza
@@ -103,7 +101,7 @@ In return, you can help someone else who is looking for the same thing.
       •The project as a whole?
           •A practical idea that would be very useful for college students and high school students mainly but also for anyone in need of peer reviews. This could potentially implement a premium account at one point to generate revenue. Should have education and other important info documented on account setup.
 
-- Interview 4
+## Interview 4
 
 •Who was interviewed and who participated in the interview
    •interviewed: Zach Merlin
@@ -130,10 +128,10 @@ In return, you can help someone else who is looking for the same thing.
        •The project as a whole?
           •Overall, this is a fascinating topic. Haven’t seen anything like this. “It can be hard to get people in close circles to peer review my own work in a way that is beneficial to me so this would definitely be useful.”
 
-- Interview 5
+## Interview 5
 
 
-- Interview 6
+## Interview 6
 
 • Who was interviewed and who participated in the interview
     • Interviewed: Sarah Stefl
@@ -163,10 +161,10 @@ In return, you can help someone else who is looking for the same thing.
     • The project as a whole? 
       • Nice to have. Unique concept, cool to review papers from a variety of settings. 
 
-- Interview 7
+## Interview 7
 
 
-- Interview 8
+## Interview 8
 
 • Who was interviewed and who participated in the interview
   • Interviewed: Brandon Click
@@ -219,7 +217,7 @@ In return, you can help someone else who is looking for the same thing.
       • The project as a whole?
          • Nice to Have
 
-# Final value proposition and consumer segments
+## Final value proposition and consumer segments
    •Final value proposition
       •This new and improved technology will revolutionize the world with its peer editing capabilities and close community.
 
