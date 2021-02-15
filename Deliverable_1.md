@@ -7,10 +7,13 @@ In return, you can help someone else who is looking for the same thing.
 
 ## Initial value proposition and consumer segments
   **Value Propositions**
+  
     - Quick and easy feedback on paper
     - Gain of knowledge reading other papers
-    - Place to share creativity on your writing  
+    - Place to share creativity on your writing
+  
   **Consumer Segment**
+  
    - Writers
    - High school and college students
 
