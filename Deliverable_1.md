@@ -90,7 +90,6 @@ In return, you can help someone else who is looking for the same thing.
 - Representative quotes  
    - “Useful in cases of time constraints.”
    - “More reliable than emailing teachers who may not respond” 
-
 - Assessment: Must have / Nice to have / Don’t care
    - Features
       - Rating system for reviewer to help get rid of people not helping in the proper way?
