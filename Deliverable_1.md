@@ -144,7 +144,7 @@ In return, you can help someone else who is looking for the same thing.
    - Are you excited about this project if not why not? If excited what excites you the most about the idea?
       - I would be excited. The main things I would be excited for would be the opportunity to access free peer review(s) and also have the opportunity to review other students' papers and learn from them.
 - Representative quotes  
-      - “The fact that it is free is a huge bonus”
+     - “The fact that it is free is a huge bonus”
      -  “An extra way to make sure I don’t miss anything”
 - Assessment: Must have / Nice to have / Don’t care
     - Features
