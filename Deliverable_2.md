@@ -45,6 +45,7 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 ## 5. MVP
 
 ## 6. Use cases
+![Use case diagram](/CS386-Group2/Deliv_2_UseCaseDiag.png)
 
 ## 7. User stories
 
