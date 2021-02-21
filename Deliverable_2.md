@@ -21,34 +21,34 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 - Competitors: Wattpad, GitHub, Reddit, Chegg, Yahoo Answers, Google Docs, Paper. These are large competitors that don’t have peer editing software however you can share with friends or with other people that may give feedback.
 
 ## 3. Functional requirements (features)
--Users can post papers
+- Users can post papers
 
--Users can review papers
+- Users can review papers
 
--Users can update profiles
+- Users can update profiles
 
--Users can rate reviewers
+- Users can rate reviewers
 
--Users can get matched up with other Users for quick feedback  
+- Users can get matched up with other Users for quick feedback  
 
 ## 4. Non-functional requirements
--Light on the eyes for easy access
+- Light on the eyes for easy access
 
--Simple and easy to use with little to no learning curve - at least 8 out of 10 testers need very little/no assistance in navigation
+- Simple and easy to use with little to no learning curve - at least 8 out of 10 testers need very little/no assistance in navigation
 
--Response time: <5ms
+- Response time: <5ms
 
--Site readability is satisfactory for at least 8 out of 10 testers
+- Site readability is satisfactory for at least 8 out of 10 testers
 
--Site aesthetics are satisfactory for at least 8 out of 10 testers
+- Site aesthetics are satisfactory for at least 8 out of 10 testers
 
 ## 5. MVP
 
--Minimum Viable Product
+- Minimum Viable Product
 
--Smallest feature that gets you the most learning, feedback, or failure.
+- Smallest feature that gets you the most learning, feedback, or failure.
 
--Comment feedback system
+- Comment feedback system
 
 ## 6. Use cases
 
