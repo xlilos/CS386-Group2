@@ -44,7 +44,14 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 
 ## 5. MVP
 
+-Minimum Viable Product
+
+-Smallest feature that gets you the most learning, feedback, or failure.
+
+-Comment feedback system
+
 ## 6. Use cases
+
 **6.1. Use case diagram**
 
 * ![Use case diagram](Deliv_2_UseCaseDiag.png)
