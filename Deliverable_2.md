@@ -206,30 +206,30 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 
 ## 8. Issue Tracker
 
-User Story 1: As a reviewee, I want my paper to be reviewed nicely for that I get a good grade on my english paper
+* User Story 1: As a reviewee, I want my paper to be reviewed nicely for that I get a good grade on my english paper
 
-User Story 2: As a reviewer I want feedback on the papers I review for that I can get my own papers reviewed
+* User Story 2: As a reviewer I want feedback on the papers I review for that I can get my own papers reviewed
 
-User Story 3: As a student, I want to be able to have my paper reviewed so that I can receive a better grade
+* User Story 3: As a student, I want to be able to have my paper reviewed so that I can receive a better grade
 
-User Story 4: As a reviewer, I want to be able to review papers so that I can improve my writing ability
+* User Story 4: As a reviewer, I want to be able to review papers so that I can improve my writing ability
 
-User Story 5: As a college student, I want to have my paper peer-reviewed so that I know there are no grammatical errors.
+* User Story 5: As a college student, I want to have my paper peer-reviewed so that I know there are no grammatical errors.
 
-User Story 6: As a high school student, I want to have my paper peer reviewed by someone at a higher skill level than me
+* User Story 6: As a high school student, I want to have my paper peer reviewed by someone at a higher skill level than me
               so that I know the review is beneficial
 	      
-User Story 7: As a reviewee, I would like to see the credentials of my reviewer so I know my paper is being reviewed by
+* User Story 7: As a reviewee, I would like to see the credentials of my reviewer so I know my paper is being reviewed by
               a qualified reviewer.
 	      
-User Story 8: As a group member, I would like to only have people in my group review my paper so that I don’t
+* User Story 8: As a group member, I would like to only have people in my group review my paper so that I don’t
               have someone I don’t know reviewing my paper.
 	      
-User Story 9: As a biology student, I want quick and fast feedback by a peer that understands my subject.
+* User Story 9: As a biology student, I want quick and fast feedback by a peer that understands my subject.
 
-User Story 10: As a reviewer, I will review another paper so I can post my paper to be reviewed by another user.
+* User Story 10: As a reviewer, I will review another paper so I can post my paper to be reviewed by another user.
 
-User Story 11: As a writer I want to have my writings reviewed so I can see how people will enjoy my works
+* User Story 11: As a writer I want to have my writings reviewed so I can see how people will enjoy my works
 
 
 
