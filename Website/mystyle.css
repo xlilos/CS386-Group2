@@ -1,6 +1,6 @@
 .header {
     text-align: center;
-    background-color: #3E606D;
+    background-color: #16151A;
     color: white;
     padding: 40px;
     font-size: 15px;
@@ -8,24 +8,15 @@
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
-<<<<<<< HEAD
-    background-color: #2f4d63;
+    font-family: Garamond, Georgia, serif;
+    background-color: #121212;
     margin: 0 0 0 0;
-=======
-    color: white;
->>>>>>> 637932498757c469e522aa617dd7d281d12c654a
 }
 
 .tab {
     overflow: hidden;
-    border: 1px solid #ccc;
-<<<<<<< HEAD
-    background-color: #f1f1f1;
+    background-color: #7F7F8E;
     text-align: center;
-=======
-    background-color: #bde0eb;
->>>>>>> 637932498757c469e522aa617dd7d281d12c654a
 }
 
 .tab button {
@@ -49,9 +40,9 @@ body {
 .tabcontent {
     display: none;
     padding: 6px 12px;
-<<<<<<< HEAD
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #F9F8F7;
     text-align: center;
+    color: white;
 }
 
 #Upload
@@ -61,14 +52,11 @@ body {
   height: 50%;
   align-content: center;
   justify-content: center;
+  color: white;
 }
 
 #Upload form
 {
   align-self: center;
   text-align: center;
-=======
-    border: 1px solid #ccc;
-    border-top: none;
->>>>>>> 637932498757c469e522aa617dd7d281d12c654a
 }
