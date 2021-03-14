@@ -1,0 +1,64 @@
+ <head>
+        <link rel = "stylesheet" href = "mystyle.css" >
+        <script src = "myscripts.js"></script>
+    </head>
+
+    <body>
+        
+        <div class = "header">
+            <h1>Welcome to Peer Pad</h1>
+            <p>This new and improved technology will revolutionize
+                the world with its peer editing capabilities and 
+                close knit community
+            </p>
+        </div>
+
+        <!-- Tab Links -->
+        <div class ="tab">
+            <button class = "tablinks" onclick = "openTab(event, 'Home')"> Home </button>
+            <button class = "tablinks" onclick = "openTab(event, 'MyAccount')"> My Account </button>
+            <button class = "tablinks" onclick = "openTab(event, 'About')"> About </button>
+        </div>
+        
+        <!-- Tab content --> 
+        <div id ="Home" class = "tabContent">
+            <h3>Home</h3>
+            <p>Welcome to the home page!</p>
+        </div>
+        
+        <div id ="MyAccount" class = "tabContent">
+            <h3>My Account</h3>
+            <p>Account info here!</p>
+        </div>
+        
+        <div id ="About" class = "tabContent">
+            <h3>About</h3>
+            <p1>Created and designed by:</p1>
+            <dl>
+                <dt>Chayson Spigarelli</dt>
+                <dd>- description/photo here</dd>
+                <dt>Ian Ambos</dt>
+                <dd>- description/photo here</dd>
+                <dt>Peter Galvan</dt>
+                <dd>- description/photo here</dd>
+                <dt>Nick Nannen</dt>
+                <dd>- description/photo here</dd>
+                <dt>Brandon Roberts</dt>
+                <dd>- description/photo here</dd>
+                <dt>Jonathan White Velasco</dt>
+                <dd>- description/photo here</dd>
+            </dl>
+            
+        </div>
+
+	
+        <div id ="Upload" class = "uploadbox">
+		<form action="upload.php" method="post" enctype="multipart/form-data">
+  			<h2>Select file to upload:</h2>
+  			<input type="file" name="fileToUpload" id="fileToUpload">
+ 			<input type="submit" value="Upload File" name="submit">
+		</form>
+		<form action="index2.html">
+    			<input type="submit" value="Match" />
+		</form>
+    </body>
