@@ -8,6 +8,7 @@
 }
 
 body {
+
     font-family: Garamond, Georgia, serif;
     background-color: #121212;
     margin: 0 0 0 0;
@@ -59,4 +60,12 @@ body {
 {
   align-self: center;
   text-align: center;
+}
+
+.uploadButton {
+  color: white;
+  background-color: #8D717D;
+  border: none;
+  width: 10%;
+  height: 5%;
 }
