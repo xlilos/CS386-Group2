@@ -53,12 +53,15 @@
 
 
         <div id ="Upload" class = "uploadbox">
-		<form action="upload.php" method="post" enctype="multipart/form-data">
+		<form class="buttonForms" action="upload.php" method="post" enctype="multipart/form-data">
   			<h2>Select file to upload</h2>
-  			<input type="file" name="fileToUpload" id="fileToUpload">
+        <div id="chooseFile">
+          <label id="fileButton" class="uploadButton" for="fileToUpload">Choose File</label>
+  			  <input type="file" name="fileToUpload" id="fileToUpload">
+        </div>
  			<input type="submit" value="Upload File" name="submit" class = "uploadButton">
 		</form>
-		<form action="index2.html">
+		<form class="buttonForms" action="index2.html">
     			<input type="submit" value="Match" class = "uploadButton">
 		</form>
     </body>

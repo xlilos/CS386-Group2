@@ -16,7 +16,7 @@ body {
 
 .tab {
     overflow: hidden;
-    background-color: #7F7F8E;
+    background-color: #767171;
     text-align: center;
 }
 
@@ -41,7 +41,7 @@ body {
 .tabcontent {
     display: none;
     padding: 6px 12px;
-    border-bottom: 1px solid #F9F8F7;
+    border-bottom: 1px solid #767171;
     text-align: center;
     color: white;
 }
@@ -63,9 +63,49 @@ body {
 }
 
 .uploadButton {
+  font-family: inherit;
   color: white;
-  background-color: #8D717D;
+  background-color: #767171;
   border: none;
-  width: 10%;
-  height: 5%;
+  width: 50%;
+  height: 25%;
+  margin: 1% 0 1% 0;
+  font-size: 16px;
+}
+
+.buttonForms
+{
+  margin-top: 3%;
+  height: 100%;
+  width: 100%;
+}
+
+input[type="file"]
+{
+  z-index: -1;
+  font-size: 16px;
+  color: #b8b8b8;
+}
+
+#fileButton
+{
+  display: inline-block;
+  cursor: pointer;
+}
+
+#chooseFile
+{
+  display: inline-flex;
+  font-family: inherit;
+  color: white;
+  background-color: #767171;
+  border: none;
+  width: 50%;
+  height: 25%;
+  margin: 1% 0 1% 0;
+  font-size: 16px;
+  margin-left: 0;
+  margin-right: 0;
+  align-items: center;
+  flex-direction: column;
 }
