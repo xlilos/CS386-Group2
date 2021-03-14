@@ -1,6 +1,6 @@
 .header {
     text-align: center;
-    background-color: #1abc9c;
+    background-color: #3E606D;
     color: white;
     padding: 40px;
     font-size: 15px;
@@ -9,15 +9,23 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
+<<<<<<< HEAD
     background-color: #2f4d63;
     margin: 0 0 0 0;
+=======
+    color: white;
+>>>>>>> 637932498757c469e522aa617dd7d281d12c654a
 }
 
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
+<<<<<<< HEAD
     background-color: #f1f1f1;
     text-align: center;
+=======
+    background-color: #bde0eb;
+>>>>>>> 637932498757c469e522aa617dd7d281d12c654a
 }
 
 .tab button {
@@ -41,6 +49,7 @@ body {
 .tabcontent {
     display: none;
     padding: 6px 12px;
+<<<<<<< HEAD
     border-bottom: 1px solid black;
     text-align: center;
 }
@@ -58,4 +67,8 @@ body {
 {
   align-self: center;
   text-align: center;
+=======
+    border: 1px solid #ccc;
+    border-top: none;
+>>>>>>> 637932498757c469e522aa617dd7d281d12c654a
 }
