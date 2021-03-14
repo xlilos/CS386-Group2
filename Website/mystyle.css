@@ -4,26 +4,30 @@
     color: white;
     padding: 40px;
     font-size: 15px;
+    height: 10%;
 }
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: #2f4d63;
+    margin: 0 0 0 0;
 }
 
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: #f1f1f1;
+    text-align: center;
 }
 
 .tab button {
     background-color: inherit;
-    float: left;
     border: none;
     outline: none;
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
+    margin: 0 2% 0 2%;
 }
 
 .tab button:hover {
@@ -37,6 +41,21 @@ body {
 .tabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid #ccc;
-    border-top: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+#Upload
+{
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  align-content: center;
+  justify-content: center;
+}
+
+#Upload form
+{
+  align-self: center;
+  text-align: center;
 }
