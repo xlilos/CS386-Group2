@@ -3,6 +3,8 @@ A web based system for students / writers where members create a profile and upl
 
 ## Getting Started
 
+Before Getting started please take a look at [CONTRIBUTING.md](https://github.com/xlilos/CS386-Group2/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/xlilos/CS386-Group2/blob/main/CODE_OF_CONDUCT.md)
+
 ### Prerequisites
 
 ### Installing
