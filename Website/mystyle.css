@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    background-color: #3E606D;
+    color: white;
+    padding: 40px;
+    font-size: 15px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #bde0eb;
+}
+
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
