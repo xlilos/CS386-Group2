@@ -9,6 +9,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     color: white;
+    background-color: #2f4d63;
 }
 
 .tab {
@@ -40,4 +41,12 @@ body {
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
+}
+
+.uploadButton {
+  color: white;
+  background-color: #8D717D;
+  border: none;
+  width: 10%;
+  height: 5%;
 }

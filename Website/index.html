@@ -4,11 +4,11 @@
     </head>
 
     <body>
-        
+
         <div class = "header">
             <h1>Welcome to Peer Pad</h1>
             <p>This new and improved technology will revolutionize
-                the world with its peer editing capabilities and 
+                the world with its peer editing capabilities and
                 close knit community
             </p>
         </div>
@@ -19,18 +19,18 @@
             <button class = "tablinks" onclick = "openTab(event, 'MyAccount')"> My Account </button>
             <button class = "tablinks" onclick = "openTab(event, 'About')"> About </button>
         </div>
-        
-        <!-- Tab content --> 
+
+        <!-- Tab content -->
         <div id ="Home" class = "tabContent">
             <h3>Home</h3>
             <p>Welcome to the home page!</p>
         </div>
-        
+
         <div id ="MyAccount" class = "tabContent">
             <h3>My Account</h3>
             <p>Account info here!</p>
         </div>
-        
+
         <div id ="About" class = "tabContent">
             <h3>About</h3>
             <p1>Created and designed by:</p1>
@@ -48,17 +48,17 @@
                 <dt>Jonathan White Velasco</dt>
                 <dd>- description/photo here</dd>
             </dl>
-            
+
         </div>
 
-	
+
         <div id ="Upload" class = "uploadbox">
 		<form action="upload.php" method="post" enctype="multipart/form-data">
   			<h2>Select file to upload:</h2>
   			<input type="file" name="fileToUpload" id="fileToUpload">
- 			<input type="submit" value="Upload File" name="submit">
+ 			<input type="submit" value="Upload File" name="submit" class = "uploadButton">
 		</form>
 		<form action="index2.html">
-    			<input type="submit" value="Match" />
+    			<input type="submit" value="Match" class = "uploadButton">
 		</form>
     </body>
