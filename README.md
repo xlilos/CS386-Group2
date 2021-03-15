@@ -7,7 +7,17 @@ Before getting started please take a look at [CONTRIBUTING.md](https://github.co
 
 ### Prerequisites
 
+- Git
+- Github
+- Text Editor (Notepad++, Vim, etc)
+
 ### Installing
+
+1. Fork the main [repository](https://github.com/xlilos/CS386-Group2)
+2. Clone the forked repository to local machine
+3. Open documents on local machine with text editor of choosing
+4. Make changes you have decided that are necessary
+5. Once done make a pull request to main repository 
 
 ## Authors
 
