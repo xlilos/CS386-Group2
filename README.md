@@ -3,7 +3,7 @@ A web based system for students / writers where members create a profile and upl
 
 ## Getting Started
 
-Before getting started please take a look at [CONTRIBUTING.md](https://github.com/xlilos/CS386-Group2/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/xlilos/CS386-Group2/blob/main/CODE_OF_CONDUCT.md)
+Before getting started please take a look at the [CODE_OF_CONDUCT](https://github.com/xlilos/CS386-Group2/blob/main/CODE_OF_CONDUCT.md) file.
 
 ### Prerequisites
 
@@ -18,6 +18,10 @@ Before getting started please take a look at [CONTRIBUTING.md](https://github.co
 3. Open documents on local machine with text editor of choosing
 4. Make changes you have decided that are necessary
 5. Once done make a pull request to main repository 
+
+## Contributing
+
+If you meet everything in Getting Started section and are interested in helping please visit the [CONTRIBUTING](https://github.com/xlilos/CS386-Group2/blob/main/CONTRIBUTING.md) file for more information.
 
 ## Authors
 
