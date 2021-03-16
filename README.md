@@ -1,5 +1,5 @@
 # Peer Pad
-A web based system for students / writers where members create a profile and upload their papers to get their work peer reviewed in exchange for peer reviewing other members' work. 
+A web based system for students / writers where members create a profile and upload their papers to get their work peer reviewed in exchange for peer reviewing other members' work. We are driven for a healthy ecosystem and would like to thank you for your interest or viewing of Peer Pad.
 
 ## Getting Started
 
