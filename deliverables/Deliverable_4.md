@@ -74,6 +74,7 @@ In the Readme file, the current version should be stated. You should follow the 
    “Describe the approach you adopted to design your user interface. Include some screenshots.”
 
 ![Look and Feel](Deliv_4_Look_and_feel.png)
+
 - We are big fans of dark mode styles so we went with a black and grey design. We also want something very simple for the user to navigate so we went with a super simple UI.
 
 ## 9. Lessons learned
@@ -84,4 +85,4 @@ In the Readme file, the current version should be stated. You should follow the 
 
 ## 10. Demo
 
-    “Include a link to a video showing the system working”
+   “Include a link to a video showing the system working”
