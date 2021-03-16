@@ -1,4 +1,4 @@
-#Morals
+# Morals
 
 We here at Peer Pad are open to many things and many type of people. We will work with or whomever is interested in this project from consumers to coders everywhere. We stand for a great ecosystem here at Peer Pad and will do whatever in our power to keep it that way.
 
