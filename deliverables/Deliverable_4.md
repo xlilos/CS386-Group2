@@ -87,4 +87,4 @@ In the Readme file, the current version should be stated. You should follow the 
 
    “Include a link to a video showing the system working”
 
-![Demo](https://youtu.be/n-VXuXhOc10)
+![Demo](https://www.youtube.com/watch?v=n-VXuXhOc10)
