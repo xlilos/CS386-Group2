@@ -31,7 +31,9 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 - CSS
   - We chose this technology because we are making a website and CSS will let us style the website the way we want it.
 - JavaScript
-  - We chose this technology because it is something we are all familiar with and is a great way to put actions on a website for the user to have a button to upload papers and many other things.
+  - We chose this technology because it is something we are all familiar with and is a great way to put actions on a website for the user to navigate through software.
+- PHP
+  - We chose this because we will be taking users' documents and putting it on our server so it is able to be commented on by reviewers on the platform. 
 - Filezilla
   - We chose this technology so we can move finished files on github to the server that is running the website.
 - Raspberry Pi
