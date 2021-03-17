@@ -51,7 +51,7 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 
    “Describe how you are deploying your system in production. Remember that AWS Educate offers free credits for students. See the tutorial at https://dockercurriculum.com/ on how to create a container and deploy it on AWS. Provide a link for the system in production”
 
-- We have the system up and running. We are using a group member’s Raspberry Pi as a server to run the website we will be using for Peer Pad.
+- We have the system up and running. We are using a group member’s Raspberry Pi as a server to run the website we will be using for Peer Pad. The server will run our website but will also hold all the documents submitted by users.
 
 ## 6. Licensing
 
