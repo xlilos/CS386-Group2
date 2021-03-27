@@ -58,7 +58,7 @@ case description in this section. The sequence diagram should be consistent with
 class diagram (1 pt); Consistency with the use case description (1 pt); Not including the use case description (1.5 pt); 
 Over simplistic diagram (1 pt)"
 
-(SCREENSHOT HERE)
+![Image For 4](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D5Q4.PNG)
 
 - Use Case Description
 - Use Case: Add paper then upload
