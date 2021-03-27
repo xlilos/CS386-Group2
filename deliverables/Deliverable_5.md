@@ -105,16 +105,17 @@ the principles were observed (3 pts)."
 - Single Responsibility Principle: This principle is observed by creating classes that only do one thing. An example is our “Comment” class (shown below) which only 
 contains information relevant to comments made on papers.
 
-(SCREENSHOT HERE)
+![Question 6 Part A](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartA.png)
 
 - Open/Closed Principle:  Here we follow the principle that entities should be open for extension, but closed for modification because each time a new rating is 
 created it is added automatically. At the same time this is also closed because no changes need to be made when a rating is added to a profile.
 
-(SCREENSHOT HERE)
+![Question 6 Part B](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartB.png)
 
 - Liskov Substitution Principle: We observe this design principle by extending the class “profile” to multiple subtypes of a profile as shown below which doesn’t alter 
 the correctness of our program and makes class hierarchy easier to understand.
-(SCREENSHOT HERE)
+
+![Question 6 Part C](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartC.png)
 
 - Interface Segregation Principle: For this principle we split the software into multiple, independent parts. Wanted to avoid methods having several responsibilities. For example we have two “review” methods which are seperated.
 
