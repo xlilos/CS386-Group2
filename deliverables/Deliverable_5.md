@@ -116,7 +116,7 @@ created it is added automatically. At the same time this is also closed because 
 the correctness of our program and makes class hierarchy easier to understand.
 (SCREENSHOT HERE)
 
-- Interface Segregation Principle: For this principle we split the software into multiple, independent parts. Wanted to avoid methods having several responsibilities.
+- Interface Segregation Principle: For this principle we split the software into multiple, independent parts. Wanted to avoid methods having several responsibilities. For example we have two “review” methods which are seperated.
 
 (SCREENSHOT HERE)
 
