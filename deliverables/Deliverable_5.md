@@ -55,8 +55,8 @@ the diagram (1 pt); Adequate presentation of implementation details (1.0)."
 case description in this section. The sequence diagram should be consistent with the class diagram and architecture. 2"
 
   "Grading: 5 points. Criteria: Adequate use of UML (1 pt); Adequate design of the sequence diagram (2 pts); Consistency with the 
-class diagram (1 pt); Consistency with the use case description (1 pt); Not including the use case description (-1.5 pt); 
-Over simplistic diagram (-1 pt)"
+class diagram (1 pt); Consistency with the use case description (1 pt); Not including the use case description (1.5 pt); 
+Over simplistic diagram (1 pt)"
 
 (SCREENSHOT HERE)
 
