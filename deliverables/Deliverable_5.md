@@ -86,11 +86,11 @@ design patterns appropriate."
   "Grading: 6 points (3 pts each pattern). Criteria: Correct use of the design pattern as described in the literature (1.5 pt); 
 Adequate choice of the design pattern (0.5 pt); Adequate implementation of the design pattern (1 pt)."
 
-- Template Method: we can use the template method to allow easy conversions of document types for when a user wants to download them or upload them.
+- A.) Template Method: we can use the template method to allow easy conversions of document types for when a user wants to download them or upload them.
 
 ![Question 5 part A](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_5_Q.5a.png)
 
-- Facade: this pattern allows us to hide the underlying algorithm and complexity of finding a match for paper reviewing behind an easy interface.
+- B.) Facade: this pattern allows us to hide the underlying algorithm and complexity of finding a match for paper reviewing behind an easy interface.
 
 ![Question 5 part B](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_5_Q.5b.png)
 
@@ -102,26 +102,28 @@ examples from your classes."
   "Grading: 6 points. Criteria: Show correct understanding of SOLID principles (3 pts); Provide enough details to justify how 
 the principles were observed (3 pts)."
 
-- Single Responsibility Principle: This principle is observed by creating classes that only do one thing. An example is our “Comment” class (shown below) which only 
+- A.) Single Responsibility Principle: This principle is observed by creating classes that only do one thing. An example is our “Comment” class (shown below) which only 
 contains information relevant to comments made on papers.
 
 ![Question 6 Part A](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartA.png)
 
-- Open/Closed Principle:  Here we follow the principle that entities should be open for extension, but closed for modification because each time a new rating is 
+- B.) Open/Closed Principle:  Here we follow the principle that entities should be open for extension, but closed for modification because each time a new rating is 
 created it is added automatically. At the same time this is also closed because no changes need to be made when a rating is added to a profile.
 
 ![Question 6 Part B](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartB.png)
 
-- Liskov Substitution Principle: We observe this design principle by extending the class “profile” to multiple subtypes of a profile as shown below which doesn’t alter 
+- C.) Liskov Substitution Principle: We observe this design principle by extending the class “profile” to multiple subtypes of a profile as shown below which doesn’t alter 
 the correctness of our program and makes class hierarchy easier to understand.
 
 ![Question 6 Part C](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartC.png)
 
-- Interface Segregation Principle: For this principle we split the software into multiple, independent parts. Wanted to avoid methods having several responsibilities. For example we have two “review” methods which are seperated.
+- D.) Interface Segregation Principle: For this principle we split the software into multiple, independent parts. Wanted to avoid methods having several responsibilities. For example we have two “review” methods which are seperated.
 
-(SCREENSHOT HERE)
+![Question 6 Part D(part1)](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartD(Part1).png)
+![Question 6 Part D(part2)](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartD(Part2).png)
 
-- Dependency Inversion Principle: For this principle we make sure low level and high level classes should rely on abstractions so that flow can go from low to high 
+
+- E.) Dependency Inversion Principle: For this principle we make sure low level and high level classes should rely on abstractions so that flow can go from low to high 
 and high to low
 
-(SCREENSHOT HERE)
+![Question 6 Part E](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.5Question6PartE.png)
