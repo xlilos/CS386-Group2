@@ -102,25 +102,25 @@ examples from your classes."
   "Grading: 6 points. Criteria: Show correct understanding of SOLID principles (3 pts); Provide enough details to justify how 
 the principles were observed (3 pts)."
 
-- "Single Responsibility Principle: This principle is observed by creating classes that only do one thing. An example is our “Comment” class (shown below) which only 
-contains information relevant to comments made on papers."
+- Single Responsibility Principle: This principle is observed by creating classes that only do one thing. An example is our “Comment” class (shown below) which only 
+contains information relevant to comments made on papers.
 
 (SCREENSHOT HERE)
 
-- "Open/Closed Principle:  Here we follow the principle that entities should be open for extension, but closed for modification because each time a new rating is 
-created it is added automatically. At the same time this is also closed because no changes need to be made when a rating is added to a profile."
+- Open/Closed Principle:  Here we follow the principle that entities should be open for extension, but closed for modification because each time a new rating is 
+created it is added automatically. At the same time this is also closed because no changes need to be made when a rating is added to a profile.
 
 (SCREENSHOT HERE)
 
-- "Liskov Substitution Principle: We observe this design principle by extending the class “profile” to multiple subtypes of a profile as shown below which doesn’t alter 
-the correctness of our program and makes class hierarchy easier to understand."
+- Liskov Substitution Principle: We observe this design principle by extending the class “profile” to multiple subtypes of a profile as shown below which doesn’t alter 
+the correctness of our program and makes class hierarchy easier to understand.
 (SCREENSHOT HERE)
 
 - Interface Segregation Principle:
 
 (SCREENSHOT HERE)
 
-- 'Dependency Inversion Principle: For this principle we make sure low level and high level classes should rely on abstractions so that flow can go from low to high 
-and high to low"
+- Dependency Inversion Principle: For this principle we make sure low level and high level classes should rely on abstractions so that flow can go from low to high 
+and high to low
 
 (SCREENSHOT HERE)
