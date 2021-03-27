@@ -88,11 +88,11 @@ Adequate choice of the design pattern (0.5 pt); Adequate implementation of the d
 
 - Template Method: we can use the template method to allow easy conversions of document types for when a user wants to download them or upload them.
 
-(SCREENSHOT HERE)
+![Question 5 part A](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_5_Q.5a.png)
 
 - Facade: this pattern allows us to hide the underlying algorithm and complexity of finding a match for paper reviewing behind an easy interface.
 
-(SCREENSHOT HERE)
+![Question 5 part B](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_5_Q.5b.png)
 
 ## 6. Design Principles
 
