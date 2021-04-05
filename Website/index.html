@@ -48,20 +48,34 @@
                 <dt>Jonathan White Velasco</dt>
                 <dd>- description/photo here</dd>
             </dl>
-
         </div>
-
-
-        <div id ="Upload" class = "uploadbox">
-		<form class="buttonForms" action="upload.php" method="post" enctype="multipart/form-data">
-  			<h3>Select file to upload</h3>
+		
+		<div id ="Upload" class = "uploadbox">
+		
+		<form class="buttonForms">
+			<h3> Get paper enter document name here <input type = "text"> <input type="submit" value="Enter"> </h3>
+		</form>
+		
+		<form class="buttonForms" action="uploadforgrading.php" method="post" enctype="multipart/form-data">
+  			<h3>Select file to upload for grading</h3>
         <div id="chooseFile">
-          <label id="fileButton" class="uploadButton" for="fileToUpload">Choose File</label>
+          <label id="fileButton" class="uploadButton" for="fileToUpload">Choose File To Be Graded</label>
   			  <input type="file" name="fileToUpload" id="fileToUpload">
         </div>
- 			<input type="submit" value="Upload File" name="submit" class = "uploadButton">
+ 			<input type="submit" value="Upload File For Grading" name="submit" class = "uploadButton">
 		</form>
-		<form class="buttonForms" action="index2.html">
-    			<input type="submit" value="Match" class = "uploadButton">
+		
+		<form class="buttonForms">
+			<h3>Review paper section</h3>	
+		<div id="chooseFile">
+			<label id="fileButton" class="uploadButton">Get File To Review</label>
+		</div>
+		<div id="chooseFile">
+          <label id="fileButton" class="uploadButton">Choose File You Graded</label>
+        </div>
+ 			<input type="submit" value="Upload File You Graded" name="submit" class = "uploadButton">
 		</form>
+		
+		</div>
+		
     </body>
