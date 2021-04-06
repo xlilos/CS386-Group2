@@ -54,7 +54,7 @@ By: Ian Ambos, Chase Spigarelli, Nick Nannen, Brandon Roberts, Jonathan Velasco,
 
 **6.1. Use case diagram**
 
-* ![Use case diagram](Deliv_2_UseCaseDiag.png)
+* ![Use case diagram](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_2_UseCaseDiag.png)
 
 **6.2. Use case descriptions and interface sketch**
 

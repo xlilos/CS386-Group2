@@ -1,0 +1,112 @@
+.header {
+    text-align: center;
+    background-color: #16151A;
+    color: white;
+    padding: 40px;
+    font-size: 15px;
+    height: 10%;
+}
+
+body {
+
+    font-family: Garamond, Georgia, serif;
+    background-color: #121212;
+    margin: 0 0 0 0;
+}
+
+.tab {
+    overflow: hidden;
+    background-color: #767171;
+    text-align: center;
+}
+
+.tab button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    margin: 0 2% 0 2%;
+	
+}
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-bottom: 1px solid #767171;
+    text-align: center;
+    color: white;
+}
+
+#Upload
+{
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  align-content: center;
+  justify-content: center;
+  color: white;
+}
+
+#Upload form
+{
+  align-self: center;
+  text-align: center;
+}
+
+.uploadButton {
+  font-family: inherit;
+  color: white;
+  background-color: #767171;
+  border: none;
+  width: 50%;
+  height: 25%;
+  margin: 1% 0 1% 0;
+  font-size: 16px;
+}
+
+.buttonForms
+{
+  height: 100%;
+  width: 100%;
+}
+
+input[type="file"]
+{
+  z-index: -1;
+  font-size: 16px;
+  color: #b8b8b8;
+}
+
+#fileButton
+{
+  display: inline-block;
+  cursor: pointer;
+}
+
+#chooseFile
+{
+  display: inline-flex;
+  font-family: inherit;
+  color: white;
+  background-color: #767171;
+  border: none;
+  width: 50%;
+  height: 25%;
+  margin: 1% 0 1% 0;
+  font-size: 16px;
+  margin-left: 0;
+  margin-right: 0;
+  align-items: center;
+  flex-direction: column;
+}
