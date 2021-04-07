@@ -1,6 +1,8 @@
 <?php
 $target_dir = "/var/www/html/NeedsGrading/";
-$target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
+$filename = basename($_FILES["fileToUpload"]["name"]);
+$date = date('hisy');
+$target_file = $target_dir.$date.$filename;
 $uploadOk = 1;
 $FileType = pathinfo($target_file,PATHINFO_EXTENSION);
 
@@ -35,7 +37,7 @@ else
 {
   if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) 
 	{
-    		echo "The file ". basename( basename( $_FILES["fileToUpload"]["name"])). " has been uploaded.";
+    		echo "The file ".$date.$filename." has been uploaded please rememeber file name.";
   	} 
    else 
 	{
