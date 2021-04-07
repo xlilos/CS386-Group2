@@ -1,7 +1,7 @@
 <?php
 $target_dir = "/var/www/html/NeedsGrading/";
-$filename = basename($_FILES["fileToUpload"]["name"]);
-$date = date('hisy');
+$filename = basename($_FILES["fileToUploadGrading"]["name"]);
+$date = date('ndHisy');
 $target_file = $target_dir.$date.$filename;
 $uploadOk = 1;
 $FileType = pathinfo($target_file,PATHINFO_EXTENSION);
@@ -14,7 +14,7 @@ if (file_exists($target_file))
 }
 
 // Check file size
-if ($_FILES["fileToUpload"]["size"] > 500000) 
+if ($_FILES["fileToUploadGrading"]["size"] > 500000) 
 {
   echo "Sorry, your file is too large.";
   $uploadOk = 0;
@@ -35,7 +35,7 @@ if ($uploadOk == 0)
 // if everything is ok, try to upload file
 else 
 {
-  if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) 
+  if (move_uploaded_file($_FILES["fileToUploadGrading"]["tmp_name"], $target_file)) 
 	{
     		echo "The file ".$date.$filename." has been uploaded please rememeber file name.";
   	} 
