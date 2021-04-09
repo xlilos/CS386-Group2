@@ -67,19 +67,29 @@
  			<input type="submit" value="Upload File For Grading" name="submit" class = "uploadButton">
 		</form>
 
-		<!-- For Reviwer section -->		
-		<form class="buttonForms">
-			<h3>Review paper section</h3>	
+		<!-- For Reviwer section -->
+
+
+		<form class="buttonForms" action="NeedsGrading/!DownloadFile.php" method="post" enctype="multipart/form-data">
+	
+		<h3>Review paper section</h3>
+
 		<div id="chooseFile">
-			<label id="fileButton" class="uploadButton" for=>Get File To Review</label>
+
+			<input type="submit" value="Download File" name="submit">
 		</div>
+
 		</form>
+
+
 		
 		<form class="buttonForms" action="uploadgraded.php" method="post" enctype="multipart/form-data">
+
 		<div id="chooseFile">
-          <label id="fileButton" class="uploadButton" for="fileGraded">Choose File You Graded</label>
-			  <input type="file" name="fileGraded" id="fileGraded">
-        </div>
+          		<label id="fileButton" class="uploadButton" for="fileGraded">Choose File You Graded</label>
+
+			<input type="file" name="fileGraded" id="fileGraded">
+        	</div>
  			<input type="submit" value="Upload File You Graded" name="submit" class = "uploadButton">
 		</form>
 		
