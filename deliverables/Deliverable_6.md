@@ -1,9 +1,7 @@
 ## Deliverable 6: Implementation 2
 By: Ian ambos, Peter Galvan, Chase Spigarelli, Nick Nannen, Brandon Roberts and Jonathan White Velasco
 
-## 1. Introduction Provide 1-2 paragraphs to describe your system. This description should contain the value proposition and 
-the main features. At the end of the introduction, include links to your project on GitHub and Trello, 
-which should be up to date.
+## 1. Introduction Provide 1-2 paragraphs to describe your system. This description should contain the value proposition and the main features. At the end of the introduction, include links to your project on GitHub and Trello, which should be up to date.
 
 - Stress and heavy workload impacts students who need their papers peer reviewed. Often, the consequences include unverified papers and 
 documents that have many errors. Peer Pad helps match writers with peers at a similar academic skill level. This way they can receive 
@@ -20,12 +18,7 @@ Grading criteria (2 points):
 - Presence of links to GitHub and Trello (0.3 points)
 - Up-to-date Trello board (1 point) 
 
-## 2. Implemented requirements List in this section the requirements (user stories, issues, or use cases) that you implemented for 
-this release. For each requirement, include: - Link to the card on Trello that describes the requirement - Name of who implemented 
-the requirement and link to the pull request on GitHub that refers to this implementation. - Name of who reviewed and approved the 
-pull request. - A print screen that depicts the implemented feature (if applicable). Remember that all source code should be 
-submitted by means of pull requests and the quality assurance person in the team should review and approve each pull request. 
-For more information about pull requests: [https://help.github.com/articles/about-pull-requests/](https://help.github.com/articles/about-pull-requests/)
+## 2. Implemented requirements List in this section the requirements (user stories, issues, or use cases) that you implemented for this release. For each requirement, include: - Link to the card on Trello that describes the requirement - Name of who implemented the requirement and link to the pull request on GitHub that refers to this implementation. - Name of who reviewed and approved the pull request. - A print screen that depicts the implemented feature (if applicable). Remember that all source code should be submitted by means of pull requests and the quality assurance person in the team should review and approve each pull request. For more information about pull requests: [https://help.github.com/articles/about-pull-requests/](https://help.github.com/articles/about-pull-requests/)
 
 - Implementers(S): Peter Galvan, Jonathan White Velasco and Brandon Roberts
 - Name of Reviewer/Approver: Nick Nannen
