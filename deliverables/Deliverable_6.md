@@ -74,8 +74,7 @@ Grading criteria (4 points):
 - Adequate list of practices that were adopted to improve code quality (3 points) 
 - Clear description with adequate use of language (1 point)
 
-## 5. Lessons learned In retrospective, describe what your team learned during this second release and what would you change if you 
-would continue developing the project.
+## 5. Lessons learned In retrospective, describe what your team learned during this second release and what would you change if you would continue developing the project.
 
 Grading criteria (3 points): 
 - Adequate reflection about problems and solutions (2.5 points) 
