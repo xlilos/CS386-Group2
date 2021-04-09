@@ -37,7 +37,7 @@ minute, second and year the document was created.
 
 Showing a successful upload of file with a unique value:
 
-![Screenshot 1](D.6_part_2_requirement_1.png)
+![Screenshot 1](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.6_part_2_requirement_1.png)
 
 - Implementers(S): Peter Galvan, Jonathan White Velasco and Brandon Roberts
 - Name of Reviewer/Approver: Jonathan White Velasco for 1st pull request and Nick Nannen for 2nd pull request
@@ -49,11 +49,11 @@ paper after grading.
 
 For Get File part showing downloading to computer:
 
-![Screenshot 2](D.6_part_2_requirement_2_picture_1.png)
+![Screenshot 2](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.6_part_2_requirement_2_picture_1.png)
 
 For Choose File You Graded and uploaded part of the final screen received for giving back paper:
 
-![Screenshot 3](D.6_part_2_requirement_2_picture_2.png)
+![Screenshot 3](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.6_part_2_requirement_2_picture_2.png)
 
 - Implementers(S): Chase Spigarelli, Nick Nannen and Ian Ambos
 - Name of Reviewer/Approver:
