@@ -35,7 +35,7 @@ Showing a successful upload of file with a unique value:
 - Implementers(S): Peter Galvan, Jonathan White Velasco and Brandon Roberts
 - Name of Reviewer/Approver: Jonathan White Velasco for 1st pull request and Nick Nannen for 2nd pull request
 - [Trello Card](https://trello.com/c/SKwyRnxZ/53-reviewer-use-case-review-paper)
-- [Pull Request for Choose file You Graded and Upload File You Graded button](https://github.com/xlilos/CS386-Group2/pull/40)
+- [Pull Request for Choose file You Graded and Upload File You Graded button](https://github.com/xlilos/CS386-Group2/pull/40), 
 [Pull Request for Get File To Review button](https://github.com/xlilos/CS386-Group2/pull/41)
 - Description of what was done: We focused on getting the reviewer to be able to get a paper to grade and being able to submit that 
 paper after grading.
