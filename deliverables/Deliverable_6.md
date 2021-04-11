@@ -62,6 +62,8 @@ review of the pull request by another developer) (5 points)
 
 ## 3. Demo Include a link to a video showing the system working.
 
+- [Demo](https://www.youtube.com/watch?v=f7oXaZ6qgGQ)
+
 Grading criteria (13 points):
 - Relevance of the demonstrated functionalities (4 points) 
 - Correctness of the functionalities (3 points)
@@ -70,11 +72,18 @@ Grading criteria (13 points):
 
 ## 4. Code quality Describe how your team managed code quality. What were your policies, conventions, adopted best practices, etc. to foster high quality code?
 
+- We work in groups. We split up by task. One group focused on the reviewer use case and the other group focused on the reviewee use case.
+- We used pair programming. So, we had at least 2 people focused on the code, which would lead to less error due to more eyes on the code.
+- Every weekly meeting we go over the code that was recently published to make sure there is no code we want to change due to quality issues.
+
 Grading criteria (4 points): 
 - Adequate list of practices that were adopted to improve code quality (3 points) 
 - Clear description with adequate use of language (1 point)
 
 ## 5. Lessons learned In retrospective, describe what your team learned during this second release and what would you change if you would continue developing the project.
+
+- We struggled with PHP. It was a very new programming language to all of us. We decided as a group that we really are not a fan of PHP so we would look for a different language to do our backend work.
+- At the beginning of the year we had one idea that we were set on that would be our final project. That had to change. We would end up changing it to better our layout and functionality down the road. The big thing is that we would like to be more flexible in the future then have one goal and nothing else to fall back on.
 
 Grading criteria (3 points): 
 - Adequate reflection about problems and solutions (2.5 points) 
