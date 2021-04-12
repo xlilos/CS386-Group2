@@ -78,7 +78,7 @@ review of the pull request by another developer) (5 points)
 
 ## 3. Demo Include a link to a video showing the system working.
 
-- [Demo](https://www.youtube.com/watch?v=f7oXaZ6qgGQ)
+- [Demo](https://www.youtube.com/watch?v=hxwRIoaRYn0)
 
 Grading criteria (13 points):
 - Relevance of the demonstrated functionalities (4 points) 
