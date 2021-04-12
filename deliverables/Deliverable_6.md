@@ -62,6 +62,14 @@ File is found and downloaded:
 
 ![Screenshot 5]()
 
+File is just how we left it:
+
+![Screenshot 6]()
+
+Tells user when the file is not found:
+
+![Screenshot 7]()
+
 Grading criteria (13 points): 
 - Amount of work put into the implementation (it is expected that all members contribute with non-trivial implementation) (5 points) 
 - Adequate workflow (description of the requirement on the Trello board, submission of the implemented requirement as a pull request, 
