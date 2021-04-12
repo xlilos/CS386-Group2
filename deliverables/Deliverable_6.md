@@ -49,10 +49,26 @@ For Choose File You Graded and uploaded part of the final screen received for gi
 ![Screenshot 3](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.6_part_2_requirement_2_picture_2.png)
 
 - Implementers(S): Chase Spigarelli, Nick Nannen and Ian Ambos
-- Name of Reviewer/Approver:
+- Name of Reviewer/Approver: Peter Galvan
 - [Trello Card](https://trello.com/c/k7oOhLhX/54-reviewee-use-case-get-paper-back)
-- Pull Request ( needs link )
-- Description of what was done: 
+- [Pull Request for searching for a paper](https://github.com/xlilos/CS386-Group2/pull/43)
+- Description of what was done: Added functionality for the user to search a paper that they want to look at/grade. Document is found using the filename generated at submission.
+
+Enter text file name to search for:
+
+![Screenshot 4](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_6_GetPaper.JPG)
+
+File is found and downloaded:
+
+![Screenshot 5](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_6_File.JPG)
+
+File is just how we left it:
+
+![Screenshot 6](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_6_txt.JPG)
+
+Tells user when the file is not found:
+
+![Screenshot 7](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/Deliv_6_fail.JPG)
 
 Grading criteria (13 points): 
 - Amount of work put into the implementation (it is expected that all members contribute with non-trivial implementation) (5 points) 
@@ -62,6 +78,8 @@ review of the pull request by another developer) (5 points)
 
 ## 3. Demo Include a link to a video showing the system working.
 
+- [Demo](https://www.youtube.com/watch?v=f7oXaZ6qgGQ)
+
 Grading criteria (13 points):
 - Relevance of the demonstrated functionalities (4 points) 
 - Correctness of the functionalities (3 points)
@@ -70,11 +88,18 @@ Grading criteria (13 points):
 
 ## 4. Code quality Describe how your team managed code quality. What were your policies, conventions, adopted best practices, etc. to foster high quality code?
 
+- We work in groups. We split up by task. One group focused on the reviewer use case and the other group focused on the reviewee use case.
+- We used pair programming. So, we had at least 2 people focused on the code, which would lead to less error due to more eyes on the code.
+- Every weekly meeting we go over the code that was recently published to make sure there is no code we want to change due to quality issues.
+
 Grading criteria (4 points): 
 - Adequate list of practices that were adopted to improve code quality (3 points) 
 - Clear description with adequate use of language (1 point)
 
 ## 5. Lessons learned In retrospective, describe what your team learned during this second release and what would you change if you would continue developing the project.
+
+- We struggled with PHP. It was a very new programming language to all of us. We decided as a group that we really are not a fan of PHP so we would look for a different language to do our backend work.
+- At the beginning of the year we had one idea that we were set on that would be our final project. That had to change. We would end up changing it to better our layout and functionality down the road. The big thing is that we would like to be more flexible in the future then have one goal and nothing else to fall back on.
 
 Grading criteria (3 points): 
 - Adequate reflection about problems and solutions (2.5 points) 
