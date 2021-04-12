@@ -47,7 +47,7 @@ else
   	}
 }
 
-echo "\nRedirecting you back to the home page in 5 seconds";
+echo "\nRedirecting you back to the home page in 15 seconds";
 
-header('Refresh: 5; URL=http://47.215.199.104:8080/');
+header('Refresh: 15; URL=http://47.215.199.104:8080/');
 ?>
