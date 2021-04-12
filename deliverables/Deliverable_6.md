@@ -54,6 +54,14 @@ For Choose File You Graded and uploaded part of the final screen received for gi
 - [Pull Request for searching for a paper](https://github.com/xlilos/CS386-Group2/pull/43)
 - Description of what was done: Added functionality for the user to search a paper that they want to look at/grade. Document is found using the filename generated at submission.
 
+Enter text file name to search for:
+
+![Screenshot 4]()
+
+File is found and downloaded:
+
+![Screenshot 5]()
+
 Grading criteria (13 points): 
 - Amount of work put into the implementation (it is expected that all members contribute with non-trivial implementation) (5 points) 
 - Adequate workflow (description of the requirement on the Trello board, submission of the implemented requirement as a pull request, 
