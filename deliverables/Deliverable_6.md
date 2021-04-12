@@ -56,19 +56,19 @@ For Choose File You Graded and uploaded part of the final screen received for gi
 
 Enter text file name to search for:
 
-![Screenshot 4](https://github.com/xlilos/CS386-Group2/tree/main/deliverables/Media/Deliv_6_GetPaper.JPG)
+![Screenshot 4](https://github.com/xlilos/CS386-Group2/tree/blob/deliverables/Media/Deliv_6_GetPaper.JPG)
 
 File is found and downloaded:
 
-![Screenshot 5](https://github.com/xlilos/CS386-Group2/tree/main/deliverables/Media/Deliv_6_File.JPG)
+![Screenshot 5](https://github.com/xlilos/CS386-Group2/tree/blob/deliverables/Media/Deliv_6_File.JPG)
 
 File is just how we left it:
 
-![Screenshot 6](https://github.com/xlilos/CS386-Group2/tree/main/deliverables/Media/Deliv_6_txt.JPG)
+![Screenshot 6](https://github.com/xlilos/CS386-Group2/tree/blob/deliverables/Media/Deliv_6_txt.JPG)
 
 Tells user when the file is not found:
 
-![Screenshot 7](https://github.com/xlilos/CS386-Group2/tree/main/deliverables/Media/Deliv_6_fail.JPG)
+![Screenshot 7](https://github.com/xlilos/CS386-Group2/tree/blob/deliverables/Media/Deliv_6_fail.JPG)
 
 Grading criteria (13 points): 
 - Amount of work put into the implementation (it is expected that all members contribute with non-trivial implementation) (5 points) 
