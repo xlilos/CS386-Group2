@@ -7,41 +7,45 @@ $uploadOk = 1;
 $FileType = pathinfo($target_file,PATHINFO_EXTENSION);
 
 // Check if file already exists
-if (file_exists($target_file)) 
+if (file_exists($target_file))
 {
   echo "Sorry, file already exists.";
   $uploadOk = 0;
 }
 
 // Check file size
-if ($_FILES["fileToUploadGrading"]["size"] > 500000) 
+if ($_FILES["fileToUploadGrading"]["size"] > 500000)
 {
   echo "Sorry, your file is too large.";
   $uploadOk = 0;
 }
 
 // Allow certain file formats
-if($FileType != "txt") 
+if($FileType != "txt")
 {
   echo "Sorry, only txt files are allowed.";
   $uploadOk = 0;
 }
 
 // Check if $uploadOk is set to 0 by an error
-if ($uploadOk == 0) 
+if ($uploadOk == 0)
 {
   echo "Sorry, your file was not uploaded.";
-} 
+}
 // if everything is ok, try to upload file
-else 
+else
 {
-  if (move_uploaded_file($_FILES["fileToUploadGrading"]["tmp_name"], $target_file)) 
+  if (move_uploaded_file($_FILES["fileToUploadGrading"]["tmp_name"], $target_file))
 	{
     		echo "The file ".$date.$filename." has been uploaded please rememeber file name.";
-  	} 
-   else 
+  	}
+   else
 	{
     		echo "Sorry, there was an error uploading your file.";
   	}
 }
+
+echo "\nRedirecting you back to the home page in 5 seconds";
+
+header('Refresh: 5; URL=http://47.215.199.104:8080/');
 ?>

@@ -22,6 +22,10 @@ foreach($array as $value)
 if($flag === -1)
 {
   echo "File not found. Please try another file name.";
+
+  echo "\nRedirecting you back to the home page in 5 seconds";
+
+  header('Refresh: 5; URL=http://47.215.199.104:8080/');
 }
 
 ?>
