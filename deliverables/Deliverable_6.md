@@ -51,8 +51,8 @@ For Choose File You Graded and uploaded part of the final screen received for gi
 - Implementers(S): Chase Spigarelli, Nick Nannen and Ian Ambos
 - Name of Reviewer/Approver:
 - [Trello Card](https://trello.com/c/k7oOhLhX/54-reviewee-use-case-get-paper-back)
-- Pull Request ( needs link )
-- Description of what was done: 
+- [Pull Request for searching for a paper](https://github.com/xlilos/CS386-Group2/pull/43)
+- Description of what was done: Added functionality for the user to search a paper that they want to look at/grade. Document is found using the filename generated at submission.
 
 Grading criteria (13 points): 
 - Amount of work put into the implementation (it is expected that all members contribute with non-trivial implementation) (5 points) 
