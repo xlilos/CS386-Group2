@@ -49,7 +49,7 @@ For Choose File You Graded and uploaded part of the final screen received for gi
 ![Screenshot 3](https://github.com/xlilos/CS386-Group2/blob/main/deliverables/Media/D.6_part_2_requirement_2_picture_2.png)
 
 - Implementers(S): Chase Spigarelli, Nick Nannen and Ian Ambos
-- Name of Reviewer/Approver:
+- Name of Reviewer/Approver: Peter Galvan
 - [Trello Card](https://trello.com/c/k7oOhLhX/54-reviewee-use-case-get-paper-back)
 - [Pull Request for searching for a paper](https://github.com/xlilos/CS386-Group2/pull/43)
 - Description of what was done: Added functionality for the user to search a paper that they want to look at/grade. Document is found using the filename generated at submission.
