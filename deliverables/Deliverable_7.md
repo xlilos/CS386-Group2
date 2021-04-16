@@ -12,10 +12,10 @@ different perspectives in a peer review. We are focused on letting students post
 
 Grading: 1.0 point. Criteria: Completeness (0.5); Language (0.5)
 
-## 2. Verification (tests) 
+## 2. Verification (Missing whole section don’t understand testing)
 Verification aims to ensure that you correctly developed the product.
 
-### 2.1. Unit test (Missing whole section don’t understand testing)
+### 2.1. Unit test
 A unit test is an automated test that aims to verify the behavior of a component isolated from the rest of the system. For this deliverable, you should have 
 automated tests for the main components of your project. Provide the following information:
 
